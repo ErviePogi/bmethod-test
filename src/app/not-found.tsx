@@ -14,7 +14,7 @@ export default function NotFound() {
           <div className="bg-white rounded-2xl shadow-2xl overflow-hidden">
             {/* Error Header */}
             <div className="bg-gradient-to-r from-primary to-primary-light px-6 py-8 text-center">
-              <p className="text-9xl font-bold text-white/90 mb-2">404 Erviepogi1</p>
+              <p className="text-9xl font-bold text-white/90 mb-2">404 Erviepogi</p>
             </div>
 
             {/* Content Section */}
